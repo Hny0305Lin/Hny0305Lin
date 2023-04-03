@@ -16,12 +16,19 @@
 ### 代表性项目
 
 [华为云IAM + IoTDA](https://github.com/Hny0305Lin/Huawei-IAM-Java)
+
 [华为云+鸿蒙2.0，智能家居，ProjectX](https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectX)
+
 [NFC落地，浇花互动，ProjectY](https://github.com/Hny0305Lin/Haohanyh-HAMOS-ProjectY)
+
 [创新创业项目，活土壤](https://github.com/Hny0305Lin/LIVING_SOIL_Project)
+
 [创新创业项目，云基础服务平台(SAAS)之快视频](https://github.com/Hny0305Lin/Fast-video-haohanyh)
+
 [创新创业项目，云基础服务平台(SAAS)](https://github.com/Hny0305Lin/Web-saas-in-haohanyh.ovh)
+
 [语音助手](https://github.com/Vove7/VOSP)
+
 [私人项目，Kawamoeii，图像识别OpenCV+PaddleOCR+TFLite](https://github.com/Hny0305Lin/Haohanyh_KawaMoeii_Android)
 
 ### How to contact me?
