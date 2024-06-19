@@ -14,6 +14,7 @@
 - 🔭 我正在研究物联网应用专业、人工智能的内容。
 
 ### 代表性项目
+[华为星闪 + 项目对应APP](https://writeurl.com/Qq4d2x6wu8PW9zM7)
 
 [华为云IAM + IoTDA](https://github.com/Hny0305Lin/Huawei-IAM-Java)
 
