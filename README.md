@@ -14,7 +14,7 @@
 - 🔭 我正在研究物联网应用专业、人工智能的内容。
 
 ### 代表性项目
-[华为星闪](https://github.com/Hny0305Lin/Bearpi_Hi2821_Pico_NLChat) + [项目对应APP](https://github.com/Hny0305Lin/NLChat)
+[华为星闪Hi2821](https://github.com/Hny0305Lin/Bearpi_Hi2821_Pico_NLChat) + [华为星闪Hi3863](https://github.com/Hny0305Lin/Bearpi_Hi3863_Pico/tree/v2.nlchat) + [项目对应APP](https://github.com/Hny0305Lin/NLChat)
 
 [华为云IAM + IoTDA](https://github.com/Hny0305Lin/Huawei-IAM-Java)
 
