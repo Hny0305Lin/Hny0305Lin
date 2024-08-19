@@ -26,8 +26,6 @@
 
 [创新创业项目，活土壤](https://github.com/Hny0305Lin/LIVING_SOIL_Project)
 
-[创新创业项目，云基础服务平台(SAAS)之快视频](https://github.com/Hny0305Lin/Fast-video-haohanyh)
-
 [创新创业项目，云基础服务平台(SAAS)](https://github.com/Hny0305Lin/Web-saas-in-haohanyh.ovh)
 
 [语音助手](https://github.com/Vove7/VOSP)
