@@ -14,6 +14,8 @@
 - 🔭 我正在研究物联网应用专业、人工智能的内容。
 
 ### 代表性项目
+[浩瀚银河数字化金融解决方案](https://github.com/Hny0305Lin/haohanyh-tradingview-hhyhetf)
+
 [星闪固件管理软件](https://github.com/MiraHikari/nearlink-firmwares)
 
 [华为星闪Hi2821](https://github.com/Hny0305Lin/Bearpi_Hi2821_Pico_NLChat) + [华为星闪Hi3863](https://github.com/Hny0305Lin/Bearpi_Hi3863_Pico/tree/v2.nlchat) + [华为星闪润和WS63](https://github.com/Hny0305Lin/Hihope_WS63_NearLink_SDK/tree/v2.nlchat) + [星闪聊天软件项目对应APP](https://github.com/Hny0305Lin/NLChat) [星闪聊天软件项目对应Qt](https://github.com/Hny0305Lin/NLChat_Qt5) + [星闪聊天软件网页版](https://github.com/Hny0305Lin/NLChat_Web) [配套项目CH34x USB芯片 Java](https://github.com/Hny0305Lin/CH34x) [配套项目CH34x USB芯片 C++](https://github.com/Hny0305Lin/CH34x_Qt)
