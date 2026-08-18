@@ -1,7 +1,3 @@
-<a href="https://github.com/Hny0305Lin" one-link-mark="yes" target="_blank">
-<img align="right" alt="My Github Card" src="https://github-readme-stats.vercel.app/api?username=Hny0305Lin&show_icons=true&theme=vue-dark&custom_title=My%20GitHub%20Card" />
-</a>
-
 ### Hello, Welcome to Hny0305Lin's Github!
 
 - 🌏 Live in Fuzhou, Fujian, China.
@@ -10,11 +6,11 @@
 - 🤗 I am a programmer developed by Java language and Android software.
 - 🤗 我是一个Java语言和Android软件应用开发的程序员。
 
-- 🔭 I am studying the content of the Internet of Things application major and AI.
-- 🔭 我正在研究物联网应用专业、人工智能的内容。
+- 🔭 I am studying the content of the Internet of Things application ,AI and Blockchain + Web3.
+- 🔭 我正在研究物联网应用专业、人工智能、区块链的内容。
 
 ### 代表性项目
-[浩瀚银河数字化金融解决方案](https://github.com/Hny0305Lin/haohanyh-tradingview-hhyhetf)
+[浩瀚银河（芯异构）提供igit链上区块链存储版本控制服务](https://github.com/Hny0305Lin/next-injective-git/)
 
 [星闪固件管理软件](https://github.com/MiraHikari/nearlink-firmwares)
 
